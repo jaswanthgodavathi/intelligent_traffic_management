@@ -1,2 +1,2 @@
-# intelligent_traffic_management
+
 Software Engineering project
